@@ -1,0 +1,1 @@
+# m4nnkes_latex_template
